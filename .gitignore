@@ -6,4 +6,9 @@ __pycache__/
 
 *.pcy
 
+
 .env
+
+**/migrations/
+
+.idea/
