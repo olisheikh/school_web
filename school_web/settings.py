@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     # Own app
     'student',
     'grade',
-    'rest_framework'
+    'rest_framework',
+    'drf_yasg'
 ]
 
 MIDDLEWARE = [
